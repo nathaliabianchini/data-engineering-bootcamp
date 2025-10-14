@@ -1,4 +1,4 @@
 ## bootcamp intensivo ML Data & IA
 
-   > ATENÇÃO  
-   > esse repositório será mantido para a manutenção dos entregáveis de todas as sprints
+   > esse repositório será mantido para a manutenção dos entregáveis de todas as sprints 
+   > e posteriormente será subdivido em diretórios que as representem, ex. em pastas nomeadas: sprint1, sprint2...
