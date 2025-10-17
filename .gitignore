@@ -1,5 +1,2 @@
-# Ambientes virtuais do Python
-venv/
-.venv/
-env/
-.env/
+venv_spark/
+.venv_spark/
